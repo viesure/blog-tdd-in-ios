@@ -1,6 +1,3 @@
-# TDD on iOS - Diary
+# Test-driven development in iOS - Diary
 
-This repository contains the source code for the "TDD in iOS" blog post.
-
-![Basic arhictecture](Docs/architecture.png)
-The main architecture of the application is described on this image.
+This repository contains the source code for the [Test-driven development in iOS](https://dev.to/tamasdancsi/test-driven-development-in-ios-2310) blog post.
